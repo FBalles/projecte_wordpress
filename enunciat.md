@@ -2,7 +2,7 @@
 
 # Mòdul 12 - Projecte intermodular
 
-## Projecte de portfolio 2024 - 2025
+## Projecte de portfolio 2026 - 2027
 
 ### Prerequisits:
 
