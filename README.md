@@ -2,7 +2,7 @@
 
 # Projecte Wordpress
 
-- [Enunciat](enunciat.md)
+- [Enunciat primer trimestre](enunciat.md)
 - [Productes de Woocommerce](productes.md)
 
 
