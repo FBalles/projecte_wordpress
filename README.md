@@ -1,4 +1,4 @@
-# Mòdul 12 - Projecte intermodular
+# Mòdul 12 - Projecte intermodular (26-27)
 
 # Projecte Wordpress
 
