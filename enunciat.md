@@ -10,6 +10,8 @@ Per fer aquesta pràctica necessiteu una MV amb sistema operatiu Ubuntu Server 2
 
 A la màquina virtual instal·lareu Apache, mariadb i PHP (LAMP - Linux Apache MariaDB i PHP) i Wordpress, [teniu el tutorial aquí](https://dungeonofbits.com/category/wordpress.html).
 
+Tutorial pas a pas per la instal.lació [Aquí](https://docs.google.com/document/d/1N1eYZd2GBG4hCIBDs8R0qeXvKq40So3Vzc8gj63EblY/edit?tab=t.0#heading=h.mre7doxeoq4p)
+
 La MV tindrà xarxa NAT amb redirecció de ports, tal i com mostra la imatge:
 
 ![image](https://github.com/user-attachments/assets/d3482ae9-bd73-42e3-96fb-c1c75146f752)
